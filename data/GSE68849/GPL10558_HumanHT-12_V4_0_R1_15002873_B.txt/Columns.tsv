@@ -1,0 +1,27 @@
+	Name	Level	Visible
+0	Species	all	
+1	Source	all	
+2	Search_Key	all	
+3	Transcript	probe	
+4	ILMN_Gene	all	
+5	Source_Reference_ID	probe	
+6	RefSeq_ID	probe	
+7	Unigene_ID	all	
+8	Entrez_Gene_ID	all	
+9	GI	probe	
+10	Accession	probe	
+11	Symbol	all	
+12	Protein_Product	probe	
+13	Probe_Id	probe	
+14	Array_Address_Id	probe	
+15	Probe_Type	probe	
+16	Probe_Start	probe	
+17	Probe_Sequence	probe	
+18	Chromosome	all	
+19	Probe_Chr_Orientation	all	
+20	Probe_Coordinates	probe	
+21	Definition	all	
+22	Ontology_Component	all	
+23	Ontology_Process	all	
+24	Ontology_Function	all	
+25	Synonyms	all	
